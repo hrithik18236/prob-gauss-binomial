@@ -1,4 +1,4 @@
-$ prob-gauss-normal
+$ prob-gauss-binomial
 
 An attempt for basic functions for calculating Gaussian and Binomial probability implemented using Python packages.
 
@@ -12,4 +12,4 @@ Generaldistribution.py
 
 $ Installation
 
-pip install prob-gauss-normal
+pip install prob_gauss_binomial
